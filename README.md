@@ -1,4 +1,9 @@
-### Hi there 👋
+
+- 👋 Hi, I’m Gunjan.
+- 👀 I’m interested in front end technologies, web and mobile app development.
+- 🌱 I’m currently learning ReactJS and GraphQL.
+- 💞️ I’m looking to collaborate on various interesting projects.
+- 📫 How to reach me <a mailto="gunjangaba122@gmail.com">gunjangaba122@gmail.com</a>.
 
 <!--
 **Gunjan134/Gunjan134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
