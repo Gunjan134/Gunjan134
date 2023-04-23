@@ -3,7 +3,9 @@
 - 👀 I’m interested in front end technologies, web and mobile app development.
 - 🌱 I’m currently learning MUI and Tailwind CSS.
 - 💞️ I’m looking to collaborate on various interesting projects.
-- 📫 How to reach me <a mailto="gunjangaba122@gmail.com">gunjangaba122@gmail.com</a>.
+- 📫 How to reach me:
+  Email ID: <a mailto="gunjangaba122@gmail.com">gunjangaba122@gmail.com</a>
+  LinkedIn: www.linkedin.com/in/gunjan-gaba-49618b1ba
 
 <!--
 **Gunjan134/Gunjan134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
