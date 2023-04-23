@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Gunjan.
 - 👀 I’m interested in front end technologies, web and mobile app development.
-- 🌱 I’m currently learning ReactJS and GraphQL.
+- 🌱 I’m currently learning MUI and Tailwind CSS.
 - 💞️ I’m looking to collaborate on various interesting projects.
 - 📫 How to reach me <a mailto="gunjangaba122@gmail.com">gunjangaba122@gmail.com</a>.
 
